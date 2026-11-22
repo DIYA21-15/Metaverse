@@ -197,8 +197,7 @@ This repository is maintained as an **independent learning project** that has ev
 
 ## 👨‍💻 Author
 
-**Navdeep Singh**
-GitHub: [https://github.com/navu545](https://github.com/navu545)
+**Diya Bisht**
 
 ---
 
